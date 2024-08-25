@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Kaleab
-- 👀 I’m interested in web development & digital arts
-- 🌱 I’m currently learning video editing & graphics design also improve my web developing & programming skills 
-- 💞️ I’m looking to collaborate on teams or individuals need my skills.
-- 📫 How to reach me kaleabassefa277@gmail.com | instagram/kal_craft | Telegram/@Baw_wow
+- 😎 I’m interested in web development & digital arts
+-👨‍💻 I’m currently learning video editing & graphics design also improve my web developing & programming skills 
+- 🤙 I’m looking to collaborate on teams or individuals need my skills.
+- 🏄🔎 How to reach me kaleabassefa277@gmail.com | instagram/kal_craft | Telegram/@Baw_wow
 <!--- - - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
